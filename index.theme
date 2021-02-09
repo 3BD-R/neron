@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=neron
+Name=neron_
 Comment=theme try to simulate cyberpunky style
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=neron
+GtkTheme=neron_
 MetacityTheme=neron
 IconTheme=Adwaita
 CursorTheme=Adwaita
